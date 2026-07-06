@@ -117,7 +117,3 @@ This project trains a face-recognition model on real photos. If you fork or reus
 ## Acknowledgments
 
 Built as a 4th-semester academic project, combining computer vision, speech processing, and desktop/mobile automation into a single assistant.
-
-## License
-
-This project is for educational purposes. Add a license of your choice (e.g., MIT) if you intend others to reuse the code.
