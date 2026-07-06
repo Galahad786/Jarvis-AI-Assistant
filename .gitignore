@@ -3,3 +3,8 @@ contacts.csv
 jarvis.db
 /engine/__pycache__
 /engine/cookies.json
+engine/auth/samples/
+engine/auth/trainer/trainer.yml
+engine.zip
+__pycache__/
+engine/auth/__pycache__/
